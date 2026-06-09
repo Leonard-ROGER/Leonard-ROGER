@@ -21,7 +21,7 @@ Open to opportunities in France and internationally.
 
 ## Projects
 
-### [Vanilla Worst-of Option Pricer](https://github.com/Leonard-ROGER/worst-of-option-pricer)
+### [Worst-of Option Pricer](https://github.com/Leonard-ROGER/worst-of-option-pricer)
 > Multi-asset European option pricer built from scratch in Python
 
 - Monte Carlo simulation with Cholesky decomposition for correlated assets
