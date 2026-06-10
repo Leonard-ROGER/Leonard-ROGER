@@ -28,7 +28,7 @@ Open to opportunities in France and internationally.
 - Variance reduction via antithetic variates (20% standard error reduction)
 - Greeks via bump-and-revalue: Δ, Γ, ν, θ, ρ_rate, ρ_correlation
 - 3 pytest tests validating mathematical properties: 
-  price positivity, Worst-of Call Price ≤ Vanilla Call Price
+  price positivity, Worst-of Call Price ≤ Vanilla Call Price, Worst-of Call Price increase with correlation
 
 **In progress:** Barrier Option Pricer · Autocallable Note · Delta Hedging Simulation
 
