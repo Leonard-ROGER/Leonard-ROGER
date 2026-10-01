@@ -1,6 +1,6 @@
 # Hi, I'm Léonard Roger 👋
 
-Finance student at emlyon business school, looking for a 6-month **Front Office internship** (Trading / Structuring) starting **January 2026**.
+Finance student at emlyon business school, looking for a 6-month **Front Office internship** (Trading / Structuring) starting **January 2027**.
 
 ---
 
