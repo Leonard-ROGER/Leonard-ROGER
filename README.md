@@ -7,7 +7,7 @@ Finance student at emlyon business school, looking for a 6-month **Front Office 
 ## About
 
 I'm an M1 Market Finance student at emlyon business school (Programme Grande École).  
-Interested in derivatives and structured products, I'm building pricers from scratch to understand to understand the mechanics behind.
+Interested in derivatives and structured products, I'm building pricers from scratch to understand the mechanics behind.
 Open to opportunities in France and internationally.
 
 ---
