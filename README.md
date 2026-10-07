@@ -16,6 +16,7 @@ Open to opportunities in France and internationally.
 
 **Languages** : &nbsp;&nbsp;  Python · SQL · Excel  
 **Libraries** : &nbsp;&nbsp; NumPy · matplotlib · pytest
+**Tools** : &nbsp;&nbsp; Git · GitHub · uv
 
 ---
 
@@ -29,6 +30,14 @@ Open to opportunities in France and internationally.
 - Greeks via bump-and-revalue: Δ, Γ, ν, θ, ρ_rate, ρ_correlation
 - 3 pytest tests validating mathematical properties: 
   price positivity, Worst-of Call Price ≤ Vanilla Call Price, Worst-of Call Price increase with correlation
+
+### [Tetris AI](https://github.com/Leonard-ROGER/tetris-ai)
+> Terminal Tetris against an adaptive AI opponent: research project from *classes préparatoires* (2024)
+
+- Exhaustive two-piece lookahead search: ~800 grids evaluated per move
+- Heuristic grid evaluation: stack height, holes, surface irregularity
+- Adaptive difficulty: the AI switches between best, random and worst moves based on the live player/AI gap
+- Packaged with uv, documented and debugged in 2026
 
 **In progress:** Barrier Option Pricer · Autocallable Note · Delta Hedging Simulation
 
