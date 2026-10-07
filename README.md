@@ -39,7 +39,9 @@ Open to opportunities in France and internationally.
 - Adaptive difficulty: the AI switches between best, random and worst moves based on the live player/AI gap
 - Packaged with uv, documented and debugged in 2026
 
-**In progress:** Barrier Option Pricer · Autocallable Note · Delta Hedging Simulation
+**In progress:**
+- Multi-asset Autocallable Note pricer
+- Final-year thesis: *Dynamic Correlation Modelling and Portfolio Risk*. DCC-GARCH vs. historical and EWMA covariance for out-of-sample VaR / Expected Shortfall forecasting
 
 ---
 
