@@ -14,8 +14,8 @@ Open to opportunities in France and internationally.
 
 ## Tech Stack
 
-**Languages** : &nbsp;&nbsp;  Python · SQL · Excel  
-**Libraries** : &nbsp;&nbsp; NumPy · matplotlib · pytest
+**Languages** : &nbsp;&nbsp; Python · SQL · Excel  
+**Libraries** : &nbsp;&nbsp; NumPy · matplotlib · pytest  
 **Tools** : &nbsp;&nbsp; Git · GitHub · uv
 
 ---
