@@ -31,6 +31,14 @@ Open to opportunities in France and internationally.
 - 3 pytest tests validating mathematical properties: 
   price positivity, Worst-of Call Price ≤ Vanilla Call Price, Worst-of Call Price increase with correlation
 
+### [Autocallable Note Pricer](https://github.com/Leonard-ROGER/autocallable-note-pricer)
+> Monte Carlo pricer for a Phoenix autocallable note (memory coupon, down-and-in put) built from scratch in Python
+
+- Risk-neutral GBM simulation with antithetic variates, dividend yield or decrement index
+- Price decomposition (coupons / nominal / PDI loss), exit probability per date, capital loss probability, expected life
+- Coupon solver by bisection for a target bank margin
+- 2 pytest tests against closed-form limit cases: certain autocall at year 1, zero-coupon note
+
 ### [Tetris AI](https://github.com/Leonard-ROGER/tetris-ai)
 > Terminal Tetris against an adaptive AI opponent: research project from *classes préparatoires* (2024)
 
